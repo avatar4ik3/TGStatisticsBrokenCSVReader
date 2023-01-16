@@ -1,5 +1,11 @@
 # Установа
 
+скачайте [файл](https://github.com/avatar4ik3/TGStatisticsBrokenCSVReader/releases/tag/release)
+
+переместите его в удобную вам папку
+
+добавьте путь до этой папки в Path [как это сделать](<https://learn.microsoft.com/ru-ru/previous-versions/office/developer/sharepoint-2010/ee537574(v=office.14)>)
+
 # Использование
 
 ## Поддерживаемые флаги

@@ -1,3 +1,4 @@
+Программа переводит .csv файл , который дает статистика телеграмма, в эксель таблицу
 # Установа
 
 скачайте [файл](https://github.com/avatar4ik3/TGStatisticsBrokenCSVReader/releases/tag/release)
